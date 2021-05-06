@@ -20,6 +20,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HEY 🙏 Programmers!! &layout=compact" alt="Divyansh garg"/>
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh1511&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /></p>
+
 
 <!--
 **divyansh1511/divyansh1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
