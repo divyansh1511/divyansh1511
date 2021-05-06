@@ -24,6 +24,14 @@
 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1511&layout=compact&hide=html&theme=highcontrast">
 
+### :zap: GitHub Trophies 🏆
+
+<p align="center">
+  <a href="https://github.com/divyansh1511" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=divyansh1511&theme=gruvbox&layout=compact&title_color=00FF00"/>
+  </a>
+</p>
+
 
 <!--
 **divyansh1511/divyansh1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
