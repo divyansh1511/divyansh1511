@@ -17,6 +17,10 @@
 <details> <summary>💬 How to reach me😎 </summary> <a href="https://www.instagram.com/divyansh.garg.1511/" target="blank"><img align="center" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="27px" /> </a> <a href="https://www.linkedin.com/in/divyansh-garg-3b74a61ba/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="27px" /></a> </a> <a href="https://www.youtube.com/channel/UCjd7tFiKQQipzj6OHlh6VAg" target="blank"><img align="center" src="https://media.giphy.com/media/5a3xbeZj7AkqG8197S/giphy.gif" width="27px" /></a>
 </details>  
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" alt="Akash Singh"/>
+
+
 <!--
 **divyansh1511/divyansh1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
