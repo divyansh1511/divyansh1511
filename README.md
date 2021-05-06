@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Programmer.gif" width="200px">
 </p>
-<h1 align="center">Hello Everyone!!👋, I'm Divyansh Garg<img src="happy02.gif" width="65px"></h1>
+<h1 align="center">Hello Everyone!!👋, I'm Divyansh Garg from <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px"></h1>
 
 
 <!--
