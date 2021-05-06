@@ -14,7 +14,7 @@
 - 🎯 I’m focusing on Competitive Programming.
 
 
-<details> <summary>💬 Ask me about programming languages😎 </summary> <a href="https://www.instagram.com/divyansh.garg.1511/" target="blank"><img align="center" src="https://media.giphy.com/media/uo6rcjwHSAFsQ/giphy.gif" width="27px" /> </a> <a href="https://www.linkedin.com/in/divyansh-garg-3b74a61ba/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="27px" /></a>
+<details> <summary>💬 Ask me about programming languages😎 </summary> <a href="https://www.instagram.com/divyansh.garg.1511/" target="blank"><img align="center" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="27px" /> </a> <a href="https://www.linkedin.com/in/divyansh-garg-3b74a61ba/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="27px" /></a>
 </details>  
 
 <!--
