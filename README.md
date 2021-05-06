@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Programmer.gif" width="200px">
 </p>
