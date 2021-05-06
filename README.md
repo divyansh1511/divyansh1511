@@ -7,6 +7,16 @@
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/divyansh1511) [![Profile](https://visitor-badge.glitch.me/badge?page_id=divyansh1511.profileviews-badge)](https://github.com/divyansh1511) [![followers](https://img.shields.io/github/followers/divyansh1511?style=social)](https://github.com/divyansh1511?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/divyansh1511))[![Repos Badge](https://badges.pufler.dev/repos/divyansh1511)](https://github.com/divyansh1511?tab=repositories) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/divyansh-garg-3b74a61ba/) [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UCjd7tFiKQQipzj6OHlh6VAg)
 <br>
 
+- 🔭 I'm in the 1<sup>st</sup> year of B.Tech Computer Science.
+
+- 🌱 I’m currently Developing Projects in Web Development.
+
+- 🎯 I’m focusing on Competitive Programming.
+
+
+<details> <summary>💬 Ask me about programming languages😎 </summary> <a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/divyansh1511/divyansh1511/blob/main/whatsapp(color).png" width="27px" /> </a> <a href="https://t.me/divyansh1511" target="blank"><img align="center" src="https://github.com/divyansh1511/divyansh1511/blob/main/telegram(color).png" width="27px" /></a>
+</details>  
+
 <!--
 **divyansh1511/divyansh1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
