@@ -34,6 +34,9 @@
 
 ![Divyansh github activity graph](https://activity-graph.herokuapp.com/graph?username=divyansh1511&theme=dracula&layout=compact&title_color=FF69B4)
 
+<br>
+
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> 
 
 <!--
 **divyansh1511/divyansh1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
