@@ -9,9 +9,9 @@
 
 <h3> 🔭 I'm in the 1<sup>st</sup> year of B.Tech Computer Science.</h3>
 
-- 🌱 I’m currently Developing Projects in Web Development.
+<h3> 🌱 I’m currently Developing Projects in Web Development.</h3>
 
-- 🎯 I’m focusing on Competitive Programming.
+<h3> 🎯 I’m focusing on Competitive Programming.</h3>
 
 
 <details> <summary>💬 How to reach me😎 </summary> <a href="https://www.instagram.com/divyansh.garg.1511/" target="blank"><img align="center" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="27px" /> </a> <a href="https://www.linkedin.com/in/divyansh-garg-3b74a61ba/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="27px" /></a> </a> <a href="https://www.youtube.com/channel/UCjd7tFiKQQipzj6OHlh6VAg" target="blank"><img align="center" src="https://media.giphy.com/media/5a3xbeZj7AkqG8197S/giphy.gif" width="27px" /></a>
