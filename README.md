@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HEY 🙏 Programmers!! &layout=compact" alt="Divyansh garg"/>
 
-### :zap: Most used languages ❤️
+<h1>### :zap: Most used languages ❤️</h1>
 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1511&layout=compact&hide=html&theme=highcontrast">
 
