@@ -14,7 +14,7 @@
 <h3> 🎯 I’m focusing on Competitive Programming.</h3>
 
 
-<details> <summary><h3>💬 How to reach me😎</h3> </summary> <a href="https://www.instagram.com/divyansh.garg.1511/" target="blank"><img align="center" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="27px" /> </a> <a href="https://www.linkedin.com/in/divyansh-garg-3b74a61ba/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="27px" /></a> </a> <a href="https://www.youtube.com/channel/UCjd7tFiKQQipzj6OHlh6VAg" target="blank"><img align="center" src="https://media.giphy.com/media/5a3xbeZj7AkqG8197S/giphy.gif" width="27px" /></a>
+<details><h3> <summary>💬 How to reach me😎 </summary></h3> <a href="https://www.instagram.com/divyansh.garg.1511/" target="blank"><img align="center" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="27px" /> </a> <a href="https://www.linkedin.com/in/divyansh-garg-3b74a61ba/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="27px" /></a> </a> <a href="https://www.youtube.com/channel/UCjd7tFiKQQipzj6OHlh6VAg" target="blank"><img align="center" src="https://media.giphy.com/media/5a3xbeZj7AkqG8197S/giphy.gif" width="27px" /></a>
 </details>  
 
 
