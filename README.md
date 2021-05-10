@@ -12,7 +12,8 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
-
+<br>
+<br>
 <h3> 🔭 I'm in the 1<sup>st</sup> year of B.Tech Computer Science.</h3>
 
 <h3> 🌱 I’m currently Developing Projects in Web Development.</h3>
@@ -24,6 +25,8 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 </details>  
 </h3>
 
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HEY 🙏 Programmers!! &layout=compact" alt="Divyansh garg"/>
 
 <h2> :zap: Most used languages ❤️</h2>
