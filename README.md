@@ -55,6 +55,9 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 </details>
 
+<details> <summary>:zap: Coding Competitions.</summary>
+  
+</details>
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> 
 <!--
