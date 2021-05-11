@@ -50,6 +50,7 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 <details> <summary>:zap: Coursera Certificates.</summary>
 
 ![Certificate](https://github.com/divyansh1511/divyansh1511/blob/main/wwww.png)
+![Certificate](https://github.com/divyansh1511/divyansh1511/blob/main/pppp.png)
 
 </details>
 
