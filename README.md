@@ -30,8 +30,6 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 <h2> :zap: Most used languages ❤️</h2>
 
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1511&layout=compact&hide=html&theme=highcontrast">
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1511&theme=blue-green)
 
 <h2> :zap: GitHub Trophies 🏆</h2>
