@@ -32,7 +32,7 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1511&theme=blue-green)
 
-<h2> ⚡ streak status </h2>
+<h2> ⚡ Streak Status 🤩</h2>
 
 <p align="center">
     <a href="https://github.com/divyansh1511/github-readme-streak-stats">
