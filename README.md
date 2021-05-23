@@ -32,6 +32,14 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1511&theme=blue-green)
 
+<h2> ⚡ streak status </h2>
+
+<p align="center">
+    <a href="https://github.com/divyansh1511/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=streak" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh1511&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 <h2> :zap: GitHub Trophies 🏆</h2>
 
 <p align="center">
