@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Programmer.gif" width="200px">
+<img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/Developer.gif" width="200px">
 </p>
 <h1 align="center">Hello Everyone!!👋, I'm Divyansh Garg from <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px"></h1>
 
