@@ -52,7 +52,7 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 <br>
 
-<h1>My Certificates</h1>
+# My Certificates
 
 <details> <summary>:zap: Coursera Certificates.</summary>
 
