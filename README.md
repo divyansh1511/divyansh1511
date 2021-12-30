@@ -27,10 +27,6 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HEY 🙏 Programmers!! &layout=compact" alt="Divyansh garg"/>
-
-<h2> :zap: SUMMARY ❤️</h2>
-
-[![](https://raw.githubusercontent.com/divyansh1511/divyansh1511/main/profile-summary-card-output/monokai/0-profile-details.svg)]
     
 <h2> :zap: Most used languages ❤️</h2>
 
