@@ -30,7 +30,7 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 <h2> :zap: SUMMARY ❤️</h2>
 
-[![](https://raw.githubusercontent.com/divyansh1511/divyansh1511/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/divyansh1511/divyansh1511/main/profile-summary-card-output/monokai/0-profile-details.svg)]
     
 <h2> :zap: Most used languages ❤️</h2>
 
