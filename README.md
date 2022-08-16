@@ -9,7 +9,7 @@
 Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
-<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" /> -->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="290" />
 
 <br>
 <h3> 🔭 I'm in the Pre-Final year of B.Tech Computer Science.</h3>
