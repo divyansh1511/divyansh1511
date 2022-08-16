@@ -12,7 +12,7 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" /> -->
 
 <br>
-<h3> 🔭 I'm in the Pre-Final<sup>st</sup> year of B.Tech Computer Science.</h3>
+<h3> 🔭 I'm in the Pre-Final year of B.Tech Computer Science.</h3>
 
 <h3> 🌱 I’m currently Developing Projects in React and Flutter.</h3>
 
