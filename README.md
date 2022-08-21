@@ -53,6 +53,12 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 <br>
 
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/divyanshgarg?theme=light&font=Karma&ext=contest" />
+<img src="https://cp-cards.herokuapp.com?name=Divyansh Garg&codechef=divyansh_1511"/>
+</p>
+
 # My Certificates
 
 <details> <summary>:zap: Coding Ninja Certificates.</summary>
