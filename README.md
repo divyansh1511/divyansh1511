@@ -25,7 +25,9 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HEY 🙏 Programmers!! &layout=compact" alt="Divyansh garg"/>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HEY 🙏 Programmers!! &layout=compact" alt="Divyansh garg"/></p> -->
+
+![Your Repository's Stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1511&theme=blue-green](https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HEY 🙏 Programmers!! &layout=compact))
     
 <h2> :zap: Most used languages ❤️</h2>
 
@@ -66,6 +68,9 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 ![Certificate](https://github.com/divyansh1511/divyansh1511/blob/main/kickstart.png)
   
 ![Certificate](https://github.com/divyansh1511/divyansh1511/blob/main/hashcode.png)
+                                                                                                                              
+![Certificate](https://github.com/divyansh1511/divyansh1511/blob/main/k2.png)
+                                                                                                                             
 </details>
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/> 
