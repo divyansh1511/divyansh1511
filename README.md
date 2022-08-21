@@ -25,7 +25,7 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HEY 🙏 Programmers!! &layout=compact" alt="Divyansh garg"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
     
@@ -56,11 +56,15 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/divyanshgarg?theme=light&font=Karma&ext=contest" />
-[![Badge](https://cp-logo.vercel.app/codechef/divyansh_1511?logo=true)]
+<img height="273em" src="https://cp-logo.vercel.app/codechef/divyansh_1511?theme=light&font=Karma&ext=contest" />
 </p>
+<<<<<<< HEAD
 
 <img src="https://cp-cards.herokuapp.com?name=Divyansh Garg&codeforces=Divyansh_1511&codechef=divyansh_1511"/>
 
+=======
+                                                                                                              
+>>>>>>> 024bac63c7903e7ef3b682087b582dd26bb6cd5b
 # My Certificates
 
 <details> <summary>:zap: Coding Ninja Certificates.</summary>
