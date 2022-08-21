@@ -56,7 +56,7 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/divyanshgarg?theme=light&font=Karma&ext=contest" />
-<img height="273em" src="https://cp-logo.vercel.app/codechef/divyansh_1511" />
+<img height="273em" src="https://raw.githubusercontent.com/Divyansh_1511/cf-stats/main/output/light_card.svg" />
 </p>
 
 # My Certificates
