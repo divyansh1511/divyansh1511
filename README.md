@@ -58,8 +58,6 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 <img height="273em" src="https://leetcard.jacoblin.cool/divyanshgarg?theme=light&font=Karma&ext=contest" />
 <img height="273em" src="https://cp-logo.vercel.app/codechef/divyansh_1511?theme=light&font=Karma&ext=contest" />
 </p>
-
-<img src="https://cp-cards.herokuapp.com?name=Divyansh Garg&codeforces=Divyansh_1511&codechef=divyansh_1511"/>
                                                                                                               
 # My Certificates
 
