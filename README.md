@@ -25,9 +25,8 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 <br>
 <br>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
-
+<a href="https://www.codechef.com/users/divyansh_1511" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyansh_1511" height="30" width="40" /></a>
     
 <h2> :zap: Github Stats ❤️</h2>
 
