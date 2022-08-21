@@ -25,13 +25,18 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 <br>
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
 
     
-<h2> :zap: Most used languages ❤️</h2>
+<h2> :zap: Github Stats ❤️</h2>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1511&theme=blue-green)
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1511&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1511&theme=blue-green) -->
 
 <h2> ⚡ Streak Status 🤩</h2>
 
