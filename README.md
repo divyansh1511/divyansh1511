@@ -59,6 +59,15 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 <img height="273em" src="https://raw.githubusercontent.com/Divyansh_1511/cf-stats/main/output/light_card.svg" />
 </p>
 
+#### Recent Activity
+
+<p><b> &#9749; Latest Medium Blogs</b></p>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dishugarg1511/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dishugarg1511/0" alt="Latest medium article">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dishugarg1511/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dishugarg1511/1" alt="Latest medium article"> </a>
+                                                                                                            
+
 # My Certificates
 
 <details> <summary>:zap: Coding Ninja Certificates.</summary>
@@ -88,6 +97,20 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 ![Certificate](https://github.com/divyansh1511/divyansh1511/blob/main/u1.png)
 
 </details>
+
+#### Connect With Me
+
+<p left="center">
+<a href="https://www.linkedin.com/in/divyanshgarg/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://medium.com/@dishugarg1511">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+</a>
+<a href="contactdivyansh01@gmail.com">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p> 
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/> 
 <br>
