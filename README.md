@@ -75,6 +75,11 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
                                                                                                                              
 </details>
 
+<details> <summary>:zap: Udemy Course Certificates</summary>
+    ![Certificate](https://github.com/divyansh1511/divyansh1511/blob/main/u2.png)
+    ![Certificate](https://github.com/divyansh1511/divyansh1511/blob/main/u1.png)
+</details>
+
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/> 
 <br>
 <br>                                                                                                                                    
