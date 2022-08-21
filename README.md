@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello Everyone!!👋, I'm Divyansh Garg from <img src="https://media.giphy.com/media/z5i7CdtKqVotB9mz7h/giphy.gif" width="30px" height="20"></h1>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/divyansh1511) [![Profile](https://visitor-badge.glitch.me/badge?page_id=divyansh1511.profileviews-badge)](https://github.com/divyansh1511) [![followers](https://img.shields.io/github/followers/divyansh1511?style=social)](https://github.com/divyansh1511?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/divyansh1511))[![Repos Badge](https://badges.pufler.dev/repos/divyansh1511)](https://github.com/divyansh1511?tab=repositories) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/divyansh-garg-3b74a61ba/) [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UCjd7tFiKQQipzj6OHlh6VAg)[![Badge](https://cp-logo.vercel.app/codechef/divyansh_1511)](https://www.codechef.com/users/divyansh1511)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/divyansh1511) [![Profile](https://visitor-badge.glitch.me/badge?page_id=divyansh1511.profileviews-badge)](https://github.com/divyansh1511) [![followers](https://img.shields.io/github/followers/divyansh1511?style=social)](https://github.com/divyansh1511?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/divyansh1511))[![Repos Badge](https://badges.pufler.dev/repos/divyansh1511)](https://github.com/divyansh1511?tab=repositories) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/divyansh-garg-3b74a61ba/) [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UCjd7tFiKQQipzj6OHlh6VAg)
 <br>
 
 Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -56,15 +56,9 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/divyanshgarg?theme=light&font=Karma&ext=contest" />
-<img height="273em" src="https://cp-logo.vercel.app/codechef/divyansh_1511?theme=light&font=Karma&ext=contest" />
+<img height="273em" src="https://cp-logo.vercel.app/codechef/divyansh_1511" />
 </p>
-<<<<<<< HEAD
 
-<img src="https://cp-cards.herokuapp.com?name=Divyansh Garg&codeforces=Divyansh_1511&codechef=divyansh_1511"/>
-
-=======
-                                                                                                              
->>>>>>> 024bac63c7903e7ef3b682087b582dd26bb6cd5b
 # My Certificates
 
 <details> <summary>:zap: Coding Ninja Certificates.</summary>
