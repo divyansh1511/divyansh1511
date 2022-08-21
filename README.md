@@ -49,8 +49,6 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
   </a>
 </p>
 
-![Divyansh github activity graph](https://activity-graph.herokuapp.com/graph?username=divyansh1511&theme=dracula&layout=compact&title_color=FF69B4)
-
 <br>
 
 <b>&#128200; Competitive Programming</b>
@@ -97,6 +95,8 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 ![Certificate](https://github.com/divyansh1511/divyansh1511/blob/main/u1.png)
 
 </details>
+
+![Divyansh github activity graph](https://activity-graph.herokuapp.com/graph?username=divyansh1511&theme=dracula&layout=compact&title_color=FF69B4)
 
 #### Connect With Me
 
