@@ -62,7 +62,7 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 <p align="left">
 <a href="https://www.codechef.com/users/divyansh_1511" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyansh_1511" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/divyanshgarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyanshgarg" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dishugarg1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dishugarg1511" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dishugarg1511" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="dishugarg1511" height="30" width="40" /></a>
 </p>
 
 #### Recent Activity
