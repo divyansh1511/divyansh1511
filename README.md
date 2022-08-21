@@ -25,7 +25,7 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HEY 🙏 Programmers!! &layout=compact" alt="Divyansh garg"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyansh1511&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
     
