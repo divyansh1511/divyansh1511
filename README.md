@@ -25,8 +25,6 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 <br>
 <br>
-
-<a href="https://www.codechef.com/users/divyansh_1511" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyansh_1511" height="30" width="40" /></a>
     
 <h2> :zap: Github Stats ❤️</h2>
 
@@ -59,6 +57,12 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/divyanshgarg?theme=light&font=Karma&ext=contest" />
 <img height="273em" src="https://raw.githubusercontent.com/Divyansh_1511/cf-stats/main/output/light_card.svg" />
+</p>
+                                                                                                             
+<p align="left">
+<a href="https://www.codechef.com/users/divyansh_1511" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyansh_1511" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/divyanshgarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyanshgarg" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dishugarg1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dishugarg1511" height="30" width="40" /></a>
 </p>
 
 #### Recent Activity
