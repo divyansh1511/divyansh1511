@@ -120,6 +120,9 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 <a href="contactdivyansh01@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
+<a href="https://www.youtube.com/channel/UCjd7tFiKQQipzj6OHlh6VAg/featured">
+  <img src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
 </p> 
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/> 
