@@ -111,6 +111,9 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 #### Connect With Me
 
 <p left="center">
+<a href="https://www.youtube.com/channel/UCjd7tFiKQQipzj6OHlh6VAg/featured">
+  <img src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" height=25>
+</a>
 <a href="https://www.linkedin.com/in/divyanshgarg/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
@@ -119,9 +122,6 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 </a>
 <a href="contactdivyansh01@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-<a href="https://www.youtube.com/channel/UCjd7tFiKQQipzj6OHlh6VAg/featured">
-  <img src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" height=25>
 </a>
 </p> 
 
