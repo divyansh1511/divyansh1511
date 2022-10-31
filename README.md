@@ -121,7 +121,7 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 <a href="https://www.youtube.com/channel/UCjd7tFiKQQipzj6OHlh6VAg/featured">
-  <img src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" height=25>
 </a>
 </p> 
 
