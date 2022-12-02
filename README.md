@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/images/Developer.gif" width="200px">
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+    <img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/images/Developer.gif" width="200px">
 </p>
 <h1 align="center">Hello Everyone!!👋, I'm Divyansh Garg from <img src="https://media.giphy.com/media/z5i7CdtKqVotB9mz7h/giphy.gif" width="30px" height="20"></h1>
 
