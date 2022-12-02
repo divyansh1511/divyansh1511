@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="200px">
+    <img src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611270dabd968c1f1c274635511947e511875ebadfb&rid=giphy.gif&ct=g" width="200px">
 </p>
 <h1 align="center">Hello Everyone!!👋, I'm Divyansh Garg from <img src="https://media.giphy.com/media/z5i7CdtKqVotB9mz7h/giphy.gif" width="30px" height="20"></h1>
 
