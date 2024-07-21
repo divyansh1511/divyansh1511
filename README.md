@@ -18,6 +18,8 @@ Hi, I'm Divyansh garg, a passionate frontend web developer and a youtuber from I
 
 <h3> 🎯 I’m also focusing on Competitive Programming.</h3>
 
+<h3>Check more about me here : <a>https://divyanshgarg.in/</a> </h3>
+
 <h3>
 <details> <summary>💬 How to reach me😎 </summary> <a href="https://www.instagram.com/divyansh.garg.1511/" target="blank"><img align="center" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="27px" /> </a> <a href="https://www.linkedin.com/in/divyansh-garg-3b74a61ba/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="27px" /></a> </a> <a href="https://www.youtube.com/channel/UCjd7tFiKQQipzj6OHlh6VAg" target="blank"> <img align="center" src="https://media.giphy.com/media/5a3xbeZj7AkqG8197S/giphy.gif" width="27px" /> </a>
 </details>  
